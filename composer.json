@@ -1,0 +1,13 @@
+{
+  "name": "mrkriskrisu/aha-calendar-subscription",
+  "license": "MIT",
+  "require": {
+    "php": "^8.1",
+    "guzzlehttp/guzzle": "^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "MrKrisKrisu\\AhaCalendar\\": "src/"
+    }
+  }
+}
