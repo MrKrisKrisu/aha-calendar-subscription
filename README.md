@@ -16,7 +16,9 @@ You can download this script using one of the following methods:
 
 1. Download the script as a zip file
    from [GitHub (click here)](https://github.com/MrKrisKrisu/aha-calendar-subscription/archive/refs/heads/main.zip)
+
 2. Clone the repository with `git clone https://github.com/MrKrisKrisu/aha-calendar-subscription.git`
+
 3. Download via composer with `composer require mrkriskrisu/aha-calendar-subscription`
 
 ### Find out your address data
